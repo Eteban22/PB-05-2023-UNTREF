@@ -1,0 +1,9 @@
+{
+    "json.schemaDownload.enable": true,
+    "eslint.rules.customizations": [
+        {
+            "rule": "*",
+            "severity": "warn"
+        },
+    ]
+}

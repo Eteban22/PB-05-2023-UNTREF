@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug with Nodemon",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/src/clase_04/parte2/actividadEnClase.js",
+            "console": "integratedTerminal",
+        }
+    ]
+}
