@@ -1,5 +1,5 @@
 /*
-    En propgramación es posible transformar el tipo de dato de una
+    En programación es posible transformar el tipo de dato de una
     variable u objeto en otro diferente al original con el que fue
     declarado. Este proceso se denomina "conversión".
 */
