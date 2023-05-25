@@ -1,0 +1,20 @@
+{
+    "name": "clase_01",
+    "version": "1.0.0",
+    "description": "Curso de Programación BackEnd - UNTREF",
+    "scripts": {
+        "eslint": "eslint ./src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/serinformatico/PB-05-2023-UNTREF.git"
+    },
+    "keywords": [],
+    "author": "Lic. Sergio Regalado Alessi",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "8.41.0",
+        "eslint-config-airbnb-base": "15.0.0",
+        "eslint-plugin-import": "2.27.5"
+    }
+}
